@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container-2{
+    @apply w-4/5 mx-auto;
+}
